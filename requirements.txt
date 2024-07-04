@@ -1,0 +1,8 @@
+datasets==2.20.0
+einops==0.8.0
+matplotlib==3.7.5
+numpy==1.23.0
+Pillow==10.4.0
+torch==1.13.1+cu117
+torchvision==0.14.1+cu117
+tqdm==4.66.4
