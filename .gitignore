@@ -1,2 +1,4 @@
 fashion_mnist
 results
+.idea
+.gitignore
